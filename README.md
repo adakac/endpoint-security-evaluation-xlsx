@@ -46,4 +46,4 @@ Evaluations of criticality were done by several IT security experts, serving as 
 ESE allows companies of all sizes to easily integrate a known security evaluation tool into their processes. The practice-oriented approach quickly leads to results, which can easily be summarized for executive summaries. The model not only integrates expert opinions, but also concrete improvement approaches, which can also be looked up centrally thanks to MITRE ATT&CK. Even if the model focuses on a practical orientation, the constant updating of the underlying MITRE ATT&CK database can be perceived as time-consuming for small and medium-sized companies. Nevertheless, even versions of ESE based upon older MITRE ATT&CK Framework versions, offer a very good basis of protection.
 
 ## Disclaimer
-This project has NO affiliation with, sponsorship, or endorsement by MITRE. This project does NOT representd the views and opinions of MITRE or MITRE personnel.
+This project has NO affiliation with, sponsorship, or endorsement by MITRE. This project does NOT represent the views and opinions of MITRE or MITRE personnel.
