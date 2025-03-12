@@ -33,7 +33,7 @@ The situation is graded using a standardized risk matrix. This can be adapted in
 ### Evaluation Results
 Once the assessment has been carried out for each technique, an overall picture of the company's IT security situation is created. In the “Overview” tab of the spreadsheet, the current security level and rating can now be read from the diagram. Depending on the business sector and the requirement profile, a result between A and A+ or higher is generally desirable. These categories assume that the most problematic vectors have been mitigated and that there is also good basic protection for less dangerous techniques. 
 
-### Maintainance and Refreshing the ESE
+### Maintaining and Updating ESE
 As new major releases of the MITRE ATT&CK Framework are published every year, it is also advisable to maintain the evaluation system on an ongoing basis, in the sense of a PDCA cycle (Plan-Do-Check-Act).
 
 This should be done at least once a year to ensure that the system is up to date and that current threats can be appropriately assessed. However, the evaluation system should also be revised if new threats have been identified or existing ones have changed significantly. In addition, the constantly changing conditions in modern companies also make ongoing reviews of the evaluation system necessary. Through regular maintenance and updating, the company can ensure that it can react optimally to threats and keep its IT security up to date.
@@ -47,3 +47,17 @@ ESE allows companies of all sizes to easily integrate a known security evaluatio
 
 ## Disclaimer
 This project has NO affiliation with, sponsorship, or endorsement by MITRE. This project does NOT represent the views and opinions of MITRE or MITRE personnel.
+
+## Licensing
+This work is licensed as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+* Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+* Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+* The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+* Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+
