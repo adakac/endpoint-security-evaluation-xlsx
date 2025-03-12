@@ -1,8 +1,11 @@
-# MITRE Endpoint Security Evaluation for Windows
+# Endpoint Security Evaluation with MITRE ATT&CK
 This project aims to provide an Excel file based Endpoint Security solution for a meta-risk asessment after MITRE ATT&CK, that is accessible to all company sizes and reflects both theoretical IT security factors and the company's point of view.
 
 ## Introduction
 Some standards already allow for some kind of evaluation of endpoint security, but most of them are are hardly feasible for small and medium-sized companies. This led to the development of the following system -  the aim was to design an easy-to-use, easy-to-maintain system that combines the requirements of the respective company with a practical evaluation system. The Endpoint Security Evaluation System (ESE) should make it easier to derive precise measures for your company and at the same time obtain rough metrics on the state of security.
+
+## Versions
+Starting with future version ESEv2.0 not only Windows devices are affected by the evaluation. All previous versions (<ESEv1.4) are made for Windows Clients only.
 
 ## Methods
 The evaluation model is based on the MITRE ATT\&CK framework, as this provides an internationally recognized basis and is also updated cyclically according to a defined scheme.
