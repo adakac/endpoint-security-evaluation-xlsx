@@ -27,9 +27,9 @@ The aim of the evaluation system is to combine a good evaluation basis with indi
 
 The three company-specific points should be awarded according to the following scale:
 
-* 1 point - priority medium - Low losses on utilization, expected risks, unlikely
-* 2 points - priority high - Losses on utilization, accepted risks, probable
-* 3 points - Priority very high - Large loss on utilization, high risk, high probability
+* 1 point - Priority Medium - Low losses on utilization, expected risks, unlikely
+* 2 points - Priority High - Losses on utilization, accepted risks, probable
+* 3 points - Priority Very High - Large loss on utilization, high risk, high probability
 
 This expert evaluation is recommended to be done in a 12 month interval.
 
