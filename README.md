@@ -35,6 +35,8 @@ This expert evaluation is recommended to be done in a 12 month interval.
 
 ### The Risk Matrix
 The situation is graded using a standardized risk matrix. This can be adapted in theory, however, adaptation is not recommended as the prioritization and scaling of the system was already taken into account when it was created - changes would most likely lead to uneven distribution.
+<p align="center"><img src="https://i.imgur.com/NQo5HnK.png" alt="Table 1"/> </p>
+<p align="center"><img src="https://i.imgur.com/qlkqJ7k.png" alt="Table 2"/> </p>
 
 ### Evaluation Results
 Once the assessment has been carried out for each technique, an overall picture of the company's IT security situation is created. In the “Overview” tab of the spreadsheet, the current security level and rating can now be read from the diagram. Depending on the business sector and the requirement profile, a result between A and A+ or higher is generally desirable. These categories assume that the most problematic vectors have been mitigated and that there is also good basic protection for less dangerous techniques. 
