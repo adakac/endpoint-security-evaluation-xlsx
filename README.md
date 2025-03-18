@@ -1,6 +1,6 @@
 # Endpoint Security Evaluation with MITRE ATT&CK
 <a href="https://github.com/adakac/endpoint-security-evaluation-xlsx/releases/latest"><img src="https://img.shields.io/github/v/release/adakac/endpoint-security-evaluation-xlsx?label=Release&color=brightgreen&cacheSeconds=3600" alt="Release"/></a>
-<a href="./LICENSE.txt"><img src="https://img.shields.io/github/license/adakac/endpoint-security-evaluation-xlsx?label=License&color=brightgreen&cacheSeconds=3600" alt="License"/></a>
+<a href="./LICENSE.txt">[![CC BY 4.0][cc-by-shield]][cc-by]</a>
 <br>
 This project aims to provide an Excel file based Endpoint Security solution for a meta-risk asessment after MITRE ATT&CK, that is accessible to all company sizes and reflects both theoretical IT security factors and the company's point of view.
 
