@@ -8,7 +8,11 @@ This project aims to provide an Excel file based Endpoint Security solution for 
 Some standards already allow for some kind of evaluation of endpoint security, but most of them are hardly feasible for small and medium-sized companies. This led to the development of the following system -  the aim was to design an easy-to-use, easy-to-maintain system that combines the requirements of the respective company with a practical evaluation system. The Endpoint Security Evaluation System (ESE) should make it easier to derive precise measures for your company and at the same time obtain rough metrics on the state of security.
 
 ## Versions
-Starting with ESE v2.0 not only Windows devices are affected by the evaluation. The evaluation is split into "Clients" (OS agnostic), "Infrastructure" (including ESXi, servers and networking) and "Services" (cloud services). All previous versions (<ESEv1.4) are made for Windows Clients only.
+Starting with ESE v2.0 not only Windows devices are affected by the evaluation. The evaluation is split into "Clients" (OS agnostic), "Infrastructure" (including ESXi, servers and networking) and "Services" (cloud services). All previous versions (<ESEv1.4) are made for Windows Clients only. With ESE v2.2 we switched to a ODS master file - for optimal use, please read the following notes:
+
+Using our ODS release, ensure you disable Comment Authorship under "Options/LibreOffice Calc/View", otherwise some comments may get cut off.
+
+Using our XLSX release, notice that MS Office does incorrectly round up all of the pie charts results. This does not influence the data itself, it is just those pie charts. ODS does reflect the data correctly.
 
 ## Methods
 The evaluation model is based on the MITRE ATT\&CK framework, as this provides an internationally recognized basis and is also updated cyclically according to a defined scheme.
